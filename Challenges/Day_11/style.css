@@ -21,7 +21,7 @@ body {
     border-radius: 50%;
     background-color: #d37fb4;
     line-height: 120px;
-    animation: animate 3s linear infinite;
+    animation: animate 30s linear infinite;
     justify-content: center;
     align-items: center;
     display: flex;
